@@ -114,30 +114,8 @@ header {
     width: 100%;
 }
 
-
-
-.bg-purple {
-    background-color: #ba4b63;
-}
-
-.bg-puffo {
-    background-color: #1ea4b6;
-}
-
-.bg-black {
-    background-color: black;
-}
-
-.bg-celeste {
-    background-color: #1c83c1;
-}
-
-.bg-blue {
-    background-color: #0e38b5;
-}
-
-.bg-beige {
-    background-color: #ccb2a3;
+.t-lightblue {
+    color: #1cb297;
 }
 
 .img {
@@ -148,4 +126,13 @@ header {
 
 .text-white {
     color: white;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    
+    border: 1px solid white;
+    
 }
